@@ -1,0 +1,9 @@
+.myDialogLogin{
+    -fx-background-color: #2F2F2F;
+}
+
+.myDialogLogin > *.label.content{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}

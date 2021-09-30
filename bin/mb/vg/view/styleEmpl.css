@@ -1,0 +1,54 @@
+.libre{
+	-fx-background-color: #27ae60;
+	-fx-background-radius: 0px;
+	-fx-text-fill: white;
+	-fx-border-color: grey;
+}
+
+
+
+.attente{
+	-fx-background-color: #27ae60;
+	-fx-background-radius: 0px;
+	-fx-text-fill: white;
+	-fx-border-color: grey;
+}
+
+.enCour{
+	-fx-background-color: #2980b9;
+	-fx-background-radius: 0px;
+	-fx-text-fill: black;
+	-fx-border-color: blue;
+}
+
+.nonSave{
+	-fx-background-color: #f39c12;
+	-fx-background-radius: 0px;
+	-fx-text-fill: black;
+	-fx-border-color: #d35400;
+}
+
+.erase{
+	-fx-background-color: #e74c3c;
+	-fx-background-radius: 0px;
+	-fx-text-fill: black;
+	-fx-border-color: #d35400;
+}
+
+.enCour:selected{
+	-fx-border-color: red;
+}
+
+.attente:selected{
+	-fx-border-color: red;
+}
+
+.libre:selected{
+	-fx-border-color: red;
+}
+
+.nonSave:selected{
+	-fx-border-color: red;
+}
+
+
